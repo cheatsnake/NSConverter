@@ -11,6 +11,7 @@ body {
 }
 
 .app {
+    position: absolute;
     padding: 10px;
     display: flex;
     flex-direction: column;
